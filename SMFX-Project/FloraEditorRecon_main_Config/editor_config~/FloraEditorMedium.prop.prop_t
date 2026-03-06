@@ -1,1 +1,5 @@
 key parent editor_config~!FloraMediumTemplate.prop
+
+#key editorBackgroundModel fe_editor_background_medium
+key editorPedestalModel fe_editor_sizeguide_medium
+key editorPlayModeExitEffectID fe_editor_pedestal_medium
